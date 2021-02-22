@@ -106,6 +106,10 @@ p {
   }
 }
 
+.item-3 {
+  z-index: 10;
+}
+
 .btn {
   display: inline-block;
   padding: 12px 32px;
@@ -255,6 +259,7 @@ p {
 header {
   width: 100%;
   padding-top: 16px;
+  z-index: 10;
 }
 
 .navbar {
